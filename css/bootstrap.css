@@ -9,6 +9,9 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+p {
+    padding-left: 2cm;
+}
 body {
   margin: 0;
 }
